@@ -1,4 +1,4 @@
-# Bykov's R - Platform topics
+# Prof.Bykov's R - Platform topics
 # Developed with help from https://www.r-bloggers.com/using-text-mining-to-find-out-what-rdatamining-tweets-are-about/
 
 # Check your working directory
